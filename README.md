@@ -87,10 +87,3 @@ Add LSTM or Transformer-based models for better time-series forecasting.
 Integrate real-time stock data (Yahoo Finance / Alpha Vantage API).
 
 Deploy as a FastAPI backend + Streamlit frontend for production.
-
-🔹 Author
-👤 Huzaifa Asad
-AI/ML Engineer | Data Scientist
-📧 huzaifaasad4838@gmail.com
-GitHub: https://github.com/huzaifa-asad
-LinkedIn: https://www.linkedin.com/in/huzaifa-asad-742988288/
