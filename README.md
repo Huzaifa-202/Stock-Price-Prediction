@@ -1,4 +1,5 @@
 📈 Stock Price Prediction using Machine Learning
+
 🔹 Overview
 This project predicts stock price movement (up or down) using multiple Machine Learning algorithms:
 
